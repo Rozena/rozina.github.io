@@ -44,4 +44,5 @@ body.boxed-layout {
     margin: 20px auto;
     overflow: hidden;
     box-shadow: 0 0 10px;
+    height: 100%;
 }
