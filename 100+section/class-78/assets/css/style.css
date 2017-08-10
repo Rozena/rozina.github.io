@@ -56,6 +56,9 @@ img{
 .food-box-bg {
     height: 350px;
     width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
 }
 
 .single-food-box {
